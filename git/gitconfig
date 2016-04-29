@@ -128,7 +128,6 @@
 [user]
 	name = Jonas Erlandsson
 	email = jonas@webbish.se
-
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path = 
